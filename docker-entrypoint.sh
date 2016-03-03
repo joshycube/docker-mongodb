@@ -1,6 +1,6 @@
 #!/bin/sh
 
-useradd mongodb
+adduser mongodb
 
 set -e
 
